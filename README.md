@@ -6,8 +6,7 @@ ir a build gradle de la libreria gradientefondocolor maven { url 'https://jitpac
 
 allprojects {
     repositories {
-        google()
-        jcenter()
+      
         maven { url 'https://jitpack.io' }
     }
 }
