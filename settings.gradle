@@ -1,0 +1,1 @@
+include ':app', ':fondocolor-release', ':whmfondocolor-release'
